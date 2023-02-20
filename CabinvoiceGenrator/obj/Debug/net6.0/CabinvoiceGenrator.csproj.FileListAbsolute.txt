@@ -1,0 +1,15 @@
+C:\Users\91790\Desktop\dotnet\CabinvoiceGenrator\CabinvoiceGenrator\bin\Debug\net6.0\CabinvoiceGenrator.exe
+C:\Users\91790\Desktop\dotnet\CabinvoiceGenrator\CabinvoiceGenrator\bin\Debug\net6.0\CabinvoiceGenrator.deps.json
+C:\Users\91790\Desktop\dotnet\CabinvoiceGenrator\CabinvoiceGenrator\bin\Debug\net6.0\CabinvoiceGenrator.runtimeconfig.json
+C:\Users\91790\Desktop\dotnet\CabinvoiceGenrator\CabinvoiceGenrator\bin\Debug\net6.0\CabinvoiceGenrator.dll
+C:\Users\91790\Desktop\dotnet\CabinvoiceGenrator\CabinvoiceGenrator\bin\Debug\net6.0\CabinvoiceGenrator.pdb
+C:\Users\91790\Desktop\dotnet\CabinvoiceGenrator\CabinvoiceGenrator\obj\Debug\net6.0\CabinvoiceGenrator.csproj.AssemblyReference.cache
+C:\Users\91790\Desktop\dotnet\CabinvoiceGenrator\CabinvoiceGenrator\obj\Debug\net6.0\CabinvoiceGenrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\Desktop\dotnet\CabinvoiceGenrator\CabinvoiceGenrator\obj\Debug\net6.0\CabinvoiceGenrator.AssemblyInfoInputs.cache
+C:\Users\91790\Desktop\dotnet\CabinvoiceGenrator\CabinvoiceGenrator\obj\Debug\net6.0\CabinvoiceGenrator.AssemblyInfo.cs
+C:\Users\91790\Desktop\dotnet\CabinvoiceGenrator\CabinvoiceGenrator\obj\Debug\net6.0\CabinvoiceGenrator.csproj.CoreCompileInputs.cache
+C:\Users\91790\Desktop\dotnet\CabinvoiceGenrator\CabinvoiceGenrator\obj\Debug\net6.0\CabinvoiceGenrator.dll
+C:\Users\91790\Desktop\dotnet\CabinvoiceGenrator\CabinvoiceGenrator\obj\Debug\net6.0\refint\CabinvoiceGenrator.dll
+C:\Users\91790\Desktop\dotnet\CabinvoiceGenrator\CabinvoiceGenrator\obj\Debug\net6.0\CabinvoiceGenrator.pdb
+C:\Users\91790\Desktop\dotnet\CabinvoiceGenrator\CabinvoiceGenrator\obj\Debug\net6.0\CabinvoiceGenrator.genruntimeconfig.cache
+C:\Users\91790\Desktop\dotnet\CabinvoiceGenrator\CabinvoiceGenrator\obj\Debug\net6.0\ref\CabinvoiceGenrator.dll
